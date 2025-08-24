@@ -1,8 +1,8 @@
-# Yelp-dataset-samples
+# Yelp 数据集示例”
 
 <h2>1001 条 Yelp 商家点评示例数据集</h2>
 
-![Yelp dataset header](https://github.com/luminati-io/Yelp-dataset-samples/blob/main/yelp-datasets.png)
+![Yelp dataset header](https://github.com/bright-cn/Yelp-dataset-samples/blob/main/yelp-datasets.png)
 
 一个包含 1000+ 条 Yelp 商家点评的示例数据集。数据集使用 <b>Bright Data API</b> 抽取。
 
@@ -31,7 +31,7 @@
 
 可提供数据增强以丰富抽取到的数据点：<b>可按需提供</b>。
 
-<b>[获取完整的 Yelp 数据集](https://brightdata.com/products/datasets/yelp)</b>。
+<b>[获取完整的 Yelp 数据集](https://www.bright.cn/products/datasets/yelp)</b>。
 
 <h2>Yelp 数据集有哪些使用场景？</h2>
 
@@ -46,4 +46,4 @@
 
 <h2>为学术研究者与公益组织提供免费的爬取工具与数据集访问</h2>
 
-Bright Initiative 为顶尖学术机构与研究者、以及致力于环境与社会公益的 NGO/NPO 提供对 Bright Data 的 <b>[Web Scraper API](https://brightdata.com/products/web-scraper)</b> 与 <b>[即用型数据集](https://brightdata.com/products/datasets)</b> 的访问。您可以在<b>[此处](https://brightinitiative.com)</b>提交申请。
+Bright Initiative 为顶尖学术机构与研究者、以及致力于环境与社会公益的 NGO/NPO 提供对 Bright Data 的 <b>[Web Scraper API](https://www.bright.cn/products/web-scraper)</b> 与 <b>[即用型数据集](https://www.bright.cn/products/datasets)</b> 的访问。您可以在<b>[此处](https://brightinitiative.com)</b>提交申请。
