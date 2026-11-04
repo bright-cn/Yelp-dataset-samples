@@ -1,4 +1,4 @@
-# Yelp-dataset-samples
+# Yelp 数据集样本
 
 <h2>包含 1001 条 Yelp 商家评论的示例数据集</h2>
 
